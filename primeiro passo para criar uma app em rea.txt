@@ -1,0 +1,6 @@
+primeiro passo para criar uma app em react 
+1 - npx create-react-app todo --template typescript
+2 - deletar logo.svg 
+3 - deletar index.css 
+4 - deletar todos app.*
+
